@@ -35,12 +35,15 @@ h2 {
 }
 
 .header {
-    height: 100px;
+    height: 80px;
     padding-top: 20px;
     padding-inline-start: 30px;
 }
 
- 
+.figure {
+
+}
+
   
   #box1 {
     position: relative;
@@ -54,9 +57,9 @@ h2 {
   #box2 {
     position: relative;
     width: 400px;
-    height: 600px;
+    height: 500px;
     top: 5%;
-    right: -50%;
+    right: -30%;
     background-color: white;
   }
 
